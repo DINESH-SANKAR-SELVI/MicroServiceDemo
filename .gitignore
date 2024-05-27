@@ -1,0 +1,86 @@
+# EurekaServer project exclusions
+### STS ###
+EurekaServer/.apt_generated
+EurekaServer/.classpath
+EurekaServer/.factorypath
+EurekaServer/.project
+EurekaServer/.settings
+EurekaServer/.springBeans
+EurekaServer/.sts4-cache
+
+### IntelliJ IDEA ###
+EurekaServer/.idea
+EurekaServer/*.iws
+EurekaServer/*.iml
+EurekaServer/*.ipr
+
+### NetBeans ###
+EurekaServer/nbproject/private/
+EurekaServer/nbbuild/
+EurekaServer/dist/
+EurekaServer/nbdist/
+EurekaServer/.nb-gradle/
+EurekaServer/build/
+EurekaServer/!**/src/main/**/build/
+EurekaServer/!**/src/test/**/build/
+
+### VS Code ###
+EurekaServer/.vscode/
+
+# FirstClientServer project exclusions
+### STS ###
+FirstClientServer/.apt_generated
+FirstClientServer/.classpath
+FirstClientServer/.factorypath
+FirstClientServer/.project
+FirstClientServer/.settings
+FirstClientServer/.springBeans
+FirstClientServer/.sts4-cache
+
+### IntelliJ IDEA ###
+FirstClientServer/.idea
+FirstClientServer/*.iws
+FirstClientServer/*.iml
+FirstClientServer/*.ipr
+
+### NetBeans ###
+FirstClientServer/nbproject/private/
+FirstClientServer/nbbuild/
+FirstClientServer/dist/
+FirstClientServer/nbdist/
+FirstClientServer/.nb-gradle/
+FirstClientServer/build/
+FirstClientServer/!**/src/main/**/build/
+FirstClientServer/!**/src/test/**/build/
+
+### VS Code ###
+FirstClientServer/.vscode/
+
+# FirstServer project exclusions
+### STS ###
+FirstServer/.apt_generated
+FirstServer/.classpath
+FirstServer/.factorypath
+FirstServer/.project
+FirstServer/.settings
+FirstServer/.springBeans
+FirstServer/.sts4-cache
+
+### IntelliJ IDEA ###
+FirstServer/.idea
+FirstServer/*.iws
+FirstServer/*.iml
+FirstServer/*.ipr
+
+### NetBeans ###
+FirstServer/nbproject/private/
+FirstServer/nbbuild/
+FirstServer/dist/
+FirstServer/nbdist/
+FirstServer/.nb-gradle/
+FirstServer/build/
+FirstServer/!**/src/main/**/build/
+FirstServer/!**/src/test/**/build/
+
+### VS Code ###
+FirstServer/.vscode/
